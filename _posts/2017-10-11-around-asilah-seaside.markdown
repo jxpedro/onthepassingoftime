@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - asilah
 ---
-<p >meeting the seaside</p>
+<p >bathing on the seaside</p>
 
 <p></p>
 
