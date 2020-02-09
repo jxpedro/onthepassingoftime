@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - city
 ---
-<a >getting lost</a>
+<p >navigating fez's street system</p>
 
 <p></p>
 
