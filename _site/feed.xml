@@ -4,10 +4,10 @@
     <title>on the passing of time</title>
     <description>somewhere in space
 </description>
-    <link>http://jxpedro.github.io/onthepassingoftime</link>
-    <atom:link href="http://jxpedro.github.io/onthepassingoftime/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Feb 2020 08:15:24 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Feb 2020 08:15:24 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Feb 2020 08:19:02 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2020 08:19:02 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -20,8 +20,8 @@
 
 </description>
         <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-        <link>http://jxpedro.github.io/onthepassingoftime/fez-street/</link>
-        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/fez-street/</guid>
+        <link>http://localhost:4000/onthepassingoftime/fez-street/</link>
+        <guid isPermaLink="true">http://localhost:4000/onthepassingoftime/fez-street/</guid>
         
         <category>city</category>
         
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-        <link>http://jxpedro.github.io/onthepassingoftime/fez-olives/</link>
-        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/fez-olives/</guid>
+        <link>http://localhost:4000/onthepassingoftime/fez-olives/</link>
+        <guid isPermaLink="true">http://localhost:4000/onthepassingoftime/fez-olives/</guid>
         
         <category>city</category>
         
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-        <link>http://jxpedro.github.io/onthepassingoftime/fez-market/</link>
-        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/fez-market/</guid>
+        <link>http://localhost:4000/onthepassingoftime/fez-market/</link>
+        <guid isPermaLink="true">http://localhost:4000/onthepassingoftime/fez-market/</guid>
         
         <category>city</category>
         
