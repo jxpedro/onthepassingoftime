@@ -6,8 +6,8 @@
 </description>
     <link>/onthepassingoftimehttp://jxpedro.github.io</link>
     <atom:link href="http://jxpedro.github.io/onthepassingoftime/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Feb 2020 16:04:19 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Feb 2020 16:04:19 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Feb 2020 16:10:26 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2020 16:10:26 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -192,9 +192,9 @@
     
       <item>
         <title>around fez</title>
-        <description>&lt;p&gt;rambling along up the street&lt;/p&gt;
+        <description>&lt;p&gt;strolling the market&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onthepassingoftime/assets/images/fez-street.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/onthepassingoftime/assets/images/fez-market.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -202,8 +202,8 @@
 
 </description>
         <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-        <link>http://jxpedro.github.io/onthepassingoftime/around-fez-street/</link>
-        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/around-fez-street/</guid>
+        <link>http://jxpedro.github.io/onthepassingoftime/around-fez-market/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/around-fez-market/</guid>
         
         <category>fez</category>
         
@@ -232,9 +232,9 @@
     
       <item>
         <title>around fez</title>
-        <description>&lt;p&gt;strolling the market&lt;/p&gt;
+        <description>&lt;p&gt;rambling along up the street&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onthepassingoftime/assets/images/fez-market.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/onthepassingoftime/assets/images/fez-street.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -242,8 +242,8 @@
 
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-        <link>http://jxpedro.github.io/onthepassingoftime/around-fez-market/</link>
-        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/around-fez-market/</guid>
+        <link>http://jxpedro.github.io/onthepassingoftime/around-fez-street/</link>
+        <guid isPermaLink="true">http://jxpedro.github.io/onthepassingoftime/around-fez-street/</guid>
         
         <category>fez</category>
         

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: around fez
-date: 2017-10-01
+date: 2017-10-03
 description: market
 image: /onthepassingoftime/assets/images/fez-market-h.png
 author: jxpedro
