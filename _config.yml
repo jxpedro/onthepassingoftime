@@ -41,7 +41,7 @@ autopages:
     layouts: 
       - 'tag.html'
     title: ':title'
-    permalink: '/onthepassingoftime/tag/:tag'
+    permalink: '/tag/:tag'
     slugify:
       mode: raw
       cased: true
