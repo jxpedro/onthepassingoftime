@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: jpsm@tutanota.com
 baseurl: ""
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: 
 
 name: jxpedro
