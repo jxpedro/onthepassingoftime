@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - city
 ---
-<p >strolling the market at dawn</p>
+<p >strolling the market</p>
 
 <p></p>
 
