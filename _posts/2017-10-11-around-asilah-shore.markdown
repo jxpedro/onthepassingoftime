@@ -1,7 +1,7 @@
 ---
 layout: post
 title: around asilah
-date: 2017-10-12
+date: 2017-10-11
 description: shore
 image: /onthepassingoftime/assets/images/asilah-shore-h.png
 author: jxpedro
