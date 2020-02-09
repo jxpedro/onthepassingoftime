@@ -19,7 +19,7 @@ author:
     url: http://jxpedro.github.io
 
 # Pagination settings
-paginate: 5
+paginate: 53
 paginate_path: "/page:num/"
 
 #pagination:
