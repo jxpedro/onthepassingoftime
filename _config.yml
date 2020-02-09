@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: jpsm@tutanota.com
-baseurl: ""
-permalink: /onthepassingoftime/:title/
+baseurl: "/onthepassingoftime"
+permalink: /:title/
 google_analytics: 
 
 name: jxpedro
