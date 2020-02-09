@@ -3,12 +3,14 @@ layout: post
 title: around fez
 date: 2017-10-03
 description: street
-image: /onthepassingoftime/assets/images/fez-street.jpg
+image: /onthepassingoftime/assets/images/fez-street-h.png
 author: jxpedro
 tags: 
   - fez
 ---
 <p >rambling along up the street</p>
+
+![Placeholder](/onthepassingoftime/assets/images/fez-street.jpg)
 
 <p></p>
 
