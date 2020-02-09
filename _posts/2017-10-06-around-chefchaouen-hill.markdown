@@ -1,8 +1,8 @@
 ---
 layout: post
 title: around chefchaouen
-date: 2017-10-04
-description: market
+date: 2017-10-06
+description: hill
 image: /onthepassingoftime/assets/images/chefchaouen-market.jpg
 author: jxpedro
 tags: 

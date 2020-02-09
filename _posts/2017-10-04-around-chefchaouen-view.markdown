@@ -1,7 +1,7 @@
 ---
 layout: post
 title: around chefchaouen
-date: 2017-10-05
+date: 2017-10-04
 description: view
 image: /onthepassingoftime/assets/images/chefchaouen-view.jpg
 author: jxpedro
