@@ -6,7 +6,7 @@ description: gate
 image: /onthepassingoftime/assets/images/rabat-gate-h.png
 author: jxpedro
 tags: 
-  - rabat
+  - morocco
 ---
 <p >gazing through the gate</p>
 

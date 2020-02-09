@@ -6,7 +6,7 @@ description: church
 image: /onthepassingoftime/assets/images/tetouan-church-h.png
 author: jxpedro
 tags: 
-  - tetouan
+  - morocco
 ---
 <p >heading pass the church</p>
 

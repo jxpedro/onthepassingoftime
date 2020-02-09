@@ -6,7 +6,7 @@ description: table
 image: /onthepassingoftime/assets/images/marrakesh-table-h.png
 author: jxpedro
 tags: 
-  - marrakesh
+  - morocco
 ---
 <p >sharing table</p>
 

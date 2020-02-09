@@ -6,7 +6,7 @@ description: road
 image: /onthepassingoftime/assets/images/tetouan-road-h.png
 author: jxpedro
 tags: 
-  - tetouan
+  - morocco
 ---
 <p >wobbling along the road</p>
 

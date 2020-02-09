@@ -6,7 +6,7 @@ description: wood
 image: /onthepassingoftime/assets/images/chefchaouen-wood-h.png
 author: jxpedro
 tags: 
-  - chefchaouen
+  - morocco
 ---
 <p >piling up wood</p>
 

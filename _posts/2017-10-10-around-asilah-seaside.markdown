@@ -6,7 +6,7 @@ description: seaside
 image: /onthepassingoftime/assets/images/asilah-seaside-h.png
 author: jxpedro
 tags: 
-  - asilah
+  - morocco
 ---
 <p >bathing on the seaside</p>
 

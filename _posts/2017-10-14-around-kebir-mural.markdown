@@ -6,7 +6,7 @@ description: mural
 image: /onthepassingoftime/assets/images/kebir-mural-h.png
 author: jxpedro
 tags: 
-  - kebir
+  - morocco
 ---
 <p >staring at the mural</p>
 

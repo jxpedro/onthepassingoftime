@@ -6,7 +6,7 @@ description: market
 image: /onthepassingoftime/assets/images/fez-market-h.png
 author: jxpedro
 tags: 
-  - fez
+  - morocco
 ---
 <p >strolling the market</p>
 

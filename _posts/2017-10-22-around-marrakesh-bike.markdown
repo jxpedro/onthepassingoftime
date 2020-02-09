@@ -6,7 +6,7 @@ description: bike
 image: /onthepassingoftime/assets/images/marrakesh-bike-h.png
 author: jxpedro
 tags: 
-  - marrakesh
+  - morocco
 ---
 <p >rolling bike</p>
 

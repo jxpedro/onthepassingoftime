@@ -6,7 +6,7 @@ description: hill
 image: /onthepassingoftime/assets/images/chefchaouen-market-h.png
 author: jxpedro
 tags: 
-  - chefchaouen
+  - morocco
 ---
 <p >climbing the hill</p>
 

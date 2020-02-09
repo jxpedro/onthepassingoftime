@@ -6,7 +6,7 @@ description: street
 image: /onthepassingoftime/assets/images/fez-street-h.png
 author: jxpedro
 tags: 
-  - fez
+  - morocco
 ---
 <p >rambling along up the street</p>
 

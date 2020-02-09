@@ -6,7 +6,7 @@ description: snails
 image: /onthepassingoftime/assets/images/asilah-snails-h.png
 author: jxpedro
 tags: 
-  - asilah
+  - morocco
 ---
 <p >eating snails</p>
 

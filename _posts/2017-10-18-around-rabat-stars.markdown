@@ -6,7 +6,7 @@ description: stars
 image: /onthepassingoftime/assets/images/rabat-stars-h.png
 author: jxpedro
 tags: 
-  - rabat
+  - morocco
 ---
 <p >picking over the stars</p>
 

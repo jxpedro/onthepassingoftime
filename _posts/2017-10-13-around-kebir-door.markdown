@@ -6,7 +6,7 @@ description: mural
 image: /onthepassingoftime/assets/images/kebir-door-h.png
 author: jxpedro
 tags: 
-  - kebir
+  - morocco
 ---
 <p >stoping by a door</p>
 

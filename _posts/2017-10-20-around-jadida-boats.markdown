@@ -6,7 +6,7 @@ description: boats
 image: /onthepassingoftime/assets/images/jadida-boats-h.png
 author: jxpedro
 tags: 
-  - jadida
+  - morocco
 ---
 <p >waiting boats</p>
 

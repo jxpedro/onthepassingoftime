@@ -6,7 +6,7 @@ description: arch
 image: /onthepassingoftime/assets/images/rabat-arch-h.png
 author: jxpedro
 tags: 
-  - rabat
+  - morocco
 ---
 <p >walking down the arch</p>
 

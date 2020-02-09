@@ -6,7 +6,7 @@ description: horseshoe
 image: /onthepassingoftime/assets/images/jadida-horseshoe-h.png
 author: jxpedro
 tags: 
-  - jadida
+  - morocco
 ---
 <p >framing horseshoe</p>
 

@@ -6,7 +6,7 @@ description: olives
 image: /onthepassingoftime/assets/images/fez-olives-h.png
 author: jxpedro
 tags: 
-  - fez
+  - morocco
 ---
 <p >watching olives</p>
 

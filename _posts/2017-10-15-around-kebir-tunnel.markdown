@@ -6,7 +6,7 @@ description: mural
 image: /onthepassingoftime/assets/images/kebir-tunnel-h.png
 author: jxpedro
 tags: 
-  - kebir
+  - morocco
 ---
 <p >going through the tunnel</p>
 

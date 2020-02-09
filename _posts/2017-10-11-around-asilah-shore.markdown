@@ -6,7 +6,7 @@ description: shore
 image: /onthepassingoftime/assets/images/asilah-shore-h.png
 author: jxpedro
 tags: 
-  - asilah
+  - morocco
 ---
 <p >sitting on the shore</p>
 

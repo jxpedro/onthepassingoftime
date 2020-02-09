@@ -6,7 +6,7 @@ description: theatre
 image: /onthepassingoftime/assets/images/tetouan-theatre-h.png
 author: jxpedro
 tags: 
-  - tetouan
+  - morocco
 ---
 <p >peeping an old theatre</p>
 

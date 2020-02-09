@@ -6,7 +6,7 @@ description: well
 image: /onthepassingoftime/assets/images/jadida-well-h.png
 author: jxpedro
 tags: 
-  - jadida
+  - morocco
 ---
 <p >storing well</p>
 

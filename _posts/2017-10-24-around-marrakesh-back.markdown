@@ -6,7 +6,7 @@ description: back
 image: /onthepassingoftime/assets/images/marrakesh-back-h.png
 author: jxpedro
 tags: 
-  - marrakesh
+  - morocco
 ---
 <p >riding piggyback</p>
 

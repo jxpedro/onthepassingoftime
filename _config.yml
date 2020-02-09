@@ -41,14 +41,14 @@ autopages:
     layouts: 
       - 'tag.html'
     title: ':title'
-    permalink: '/tag/:tag'
+    permalink: '/onthepassingoftime/tag/:tag'
     slugify:
       mode: raw
       cased: true
 
 # Build settings
 markdown: kramdown
-plugins: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
 #plugins_dir:
 #  - jekyll-paginate-v2
 #  - jekyll-sitemap
