@@ -6,7 +6,7 @@ description: market
 image: /onthepassingoftime/assets/images/chefchaouen-market.jpg
 author: jxpedro
 tags: 
-  - city
+  - chefchaouen
 ---
 <p >climbing the hill</p>
 

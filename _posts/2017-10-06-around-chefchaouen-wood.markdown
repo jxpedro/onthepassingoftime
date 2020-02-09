@@ -6,7 +6,7 @@ description: wood
 image: /onthepassingoftime/assets/images/chefchaouen-wood.jpg
 author: jxpedro
 tags: 
-  - city
+  - chefchaouen
 ---
 <p >piling up wood</p>
 

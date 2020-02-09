@@ -6,7 +6,7 @@ description: market
 image: /onthepassingoftime/assets/images/fez-market.jpg
 author: jxpedro
 tags: 
-  - city
+  - fez
 ---
 <p >strolling the market</p>
 

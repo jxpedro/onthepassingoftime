@@ -6,7 +6,7 @@ description: olives
 image: /onthepassingoftime/assets/images/fez-olives.jpg
 author: jxpedro
 tags: 
-  - city
+  - fez
 ---
 <p >watching olives</p>
 

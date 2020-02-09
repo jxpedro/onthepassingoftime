@@ -6,7 +6,7 @@ description: view
 image: /onthepassingoftime/assets/images/chefchaouen-view.jpg
 author: jxpedro
 tags: 
-  - city
+  - chefchaouen
 ---
 <p >inhaling the view</p>
 

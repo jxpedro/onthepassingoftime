@@ -6,7 +6,7 @@ description: street
 image: /onthepassingoftime/assets/images/fez-street.jpg
 author: jxpedro
 tags: 
-  - city
+  - fez
 ---
 <p >rambling along up the street</p>
 
