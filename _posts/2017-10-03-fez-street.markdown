@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - city
 ---
-<p >navigating fez's street system</p>
+<p >rambling along up the street</p>
 
 <p></p>
 

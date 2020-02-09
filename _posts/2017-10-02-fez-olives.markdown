@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - city
 ---
-<a >harvesting olives</a>
+<p >watching olives being harvested</p>
 
 <p></p>
 
