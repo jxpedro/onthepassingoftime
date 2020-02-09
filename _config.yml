@@ -1,0 +1,67 @@
+# Site/SEO settings
+email: jpsm@tutanota.com
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics: 
+
+name: jxpedro
+title: on the passing of time
+description: >
+  somewhere in space
+url: http://jxpedro.github.io/onthepassingoftime
+
+default_img: /assets/images/icons_web_e.png
+
+# Author settings
+author:
+  - name: jxpedro
+    bio: a tad asymmetrical Pedro
+    url: http://jxpedro.github.io
+
+# Pagination settings
+paginate: 5
+paginate_path: "/page:num/"
+
+#pagination:
+#  enabled: true
+#  debug: false
+#  per_page: 6
+#  permalink: '/page/:num/'
+#  title: ''
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: ':title'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins: [jekyll-paginate, jekyll-sitemap]
+#plugins_dir:
+#  - jekyll-paginate-v2
+#  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor
