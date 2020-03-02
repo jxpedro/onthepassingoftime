@@ -10,7 +10,7 @@ tags:
 ---
 <p >gazing through the gate</p>
 
-![Placeholder](/onthepassingoftime/assets/images/rabat-gate.jpg)
+![Placeholder](/onthepassingoftime/assets/images/rabat-gate.jpeg)
 
 <p></p>
 

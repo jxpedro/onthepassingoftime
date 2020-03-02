@@ -10,7 +10,7 @@ tags:
 ---
 <p >walking down the arch</p>
 
-![Placeholder](/onthepassingoftime/assets/images/rabat-arch.jpg)
+![Placeholder](/onthepassingoftime/assets/images/rabat-arch.jpeg)
 
 <p></p>
 

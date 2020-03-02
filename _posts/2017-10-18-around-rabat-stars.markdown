@@ -10,7 +10,7 @@ tags:
 ---
 <p >picking over the stars</p>
 
-![Placeholder](/onthepassingoftime/assets/images/rabat-stars.jpg)
+![Placeholder](/onthepassingoftime/assets/images/rabat-stars.jpeg)
 
 <p></p>
 
