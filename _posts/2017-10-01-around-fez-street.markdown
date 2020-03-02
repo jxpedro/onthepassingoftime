@@ -10,7 +10,7 @@ tags:
 ---
 <p >rambling along up the street</p>
 
-![Placeholder](/onthepassingoftime/assets/images/fez-street.jpg)
+![Placeholder](/onthepassingoftime/assets/images/fez-street.jpeg)
 
 <p></p>
 

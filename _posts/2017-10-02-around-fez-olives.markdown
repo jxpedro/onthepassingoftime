@@ -10,7 +10,7 @@ tags:
 ---
 <p >watching olives</p>
 
-![Placeholder](/onthepassingoftime/assets/images/fez-olives.jpg)
+![Placeholder](/onthepassingoftime/assets/images/fez-olives.jpeg)
 
 <p></p>
 

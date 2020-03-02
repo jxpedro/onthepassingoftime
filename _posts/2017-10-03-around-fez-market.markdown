@@ -10,7 +10,7 @@ tags:
 ---
 <p >strolling the market</p>
 
-![Placeholder](/onthepassingoftime/assets/images/fez-market.jpg)
+![Placeholder](/onthepassingoftime/assets/images/fez-market.jpeg)
 
 <p></p>
 
