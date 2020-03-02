@@ -10,7 +10,7 @@ tags:
 ---
 <p >staring at the mural</p>
 
-![Placeholder](/onthepassingoftime/assets/images/kebir-mural.jpg)
+![Placeholder](/onthepassingoftime/assets/images/kebir-mural.jpeg)
 
 <p></p>
 

@@ -10,7 +10,7 @@ tags:
 ---
 <p >stoping by a door</p>
 
-![Placeholder](/onthepassingoftime/assets/images/kebir-door.jpg)
+![Placeholder](/onthepassingoftime/assets/images/kebir-door.jpeg)
 
 <p></p>
 

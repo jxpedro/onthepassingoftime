@@ -10,7 +10,7 @@ tags:
 ---
 <p >going through the tunnel</p>
 
-![Placeholder](/onthepassingoftime/assets/images/kebir-tunnel.jpg)
+![Placeholder](/onthepassingoftime/assets/images/kebir-tunnel.jpeg)
 
 <p></p>
 
