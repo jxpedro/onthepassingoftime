@@ -10,7 +10,7 @@ tags:
 ---
 <p >wobbling along the road</p>
 
-![Placeholder](/onthepassingoftime/assets/images/tetouan-road.jpg)
+![Placeholder](/onthepassingoftime/assets/images/tetouan-road.jpeg)
 
 <p></p>
 

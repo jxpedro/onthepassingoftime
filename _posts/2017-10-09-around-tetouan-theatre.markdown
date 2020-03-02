@@ -10,7 +10,7 @@ tags:
 ---
 <p >peeping an old theatre</p>
 
-![Placeholder](/onthepassingoftime/assets/images/tetouan-theatre.jpg)
+![Placeholder](/onthepassingoftime/assets/images/tetouan-theatre.jpeg)
 
 <p></p>
 

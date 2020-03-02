@@ -10,7 +10,7 @@ tags:
 ---
 <p >heading pass the church</p>
 
-![Placeholder](/onthepassingoftime/assets/images/tetouan-church.jpg)
+![Placeholder](/onthepassingoftime/assets/images/tetouan-church.jpeg)
 
 <p></p>
 
