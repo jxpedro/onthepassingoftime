@@ -10,7 +10,7 @@ tags:
 ---
 <p >eating snails</p>
 
-![Placeholder](/onthepassingoftime/assets/images/asilah-snails.jpg)
+![Placeholder](/onthepassingoftime/assets/images/asilah-snails.jpeg)
 
 <p></p>
 

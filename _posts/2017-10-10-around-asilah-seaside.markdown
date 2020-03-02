@@ -10,7 +10,7 @@ tags:
 ---
 <p >bathing on the seaside</p>
 
-![Placeholder](/onthepassingoftime/assets/images/asilah-seaside.jpg)
+![Placeholder](/onthepassingoftime/assets/images/asilah-seaside.jpeg)
 
 <p></p>
 

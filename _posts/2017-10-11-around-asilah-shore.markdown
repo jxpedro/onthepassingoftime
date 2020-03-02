@@ -10,7 +10,7 @@ tags:
 ---
 <p >sitting on the shore</p>
 
-![Placeholder](/onthepassingoftime/assets/images/asilah-shore.jpg)
+![Placeholder](/onthepassingoftime/assets/images/asilah-shore.jpeg)
 
 <p></p>
 
