@@ -10,7 +10,7 @@ tags:
 ---
 <p >climbing the hill</p>
 
-![Placeholder](/onthepassingoftime/assets/images/chefchaouen-market.jpg)
+![Placeholder](/onthepassingoftime/assets/images/chefchaouen-market.jpeg)
 
 <p></p>
 

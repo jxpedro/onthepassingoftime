@@ -10,7 +10,7 @@ tags:
 ---
 <p >inhaling the view</p>
 
-![Placeholder](/onthepassingoftime/assets/images/chefchaouen-view.jpg)
+![Placeholder](/onthepassingoftime/assets/images/chefchaouen-view.jpeg)
 
 <p></p>
 

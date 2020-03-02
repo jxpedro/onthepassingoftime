@@ -10,7 +10,7 @@ tags:
 ---
 <p >piling up wood</p>
 
-![Placeholder](/onthepassingoftime/assets/images/chefchaouen-wood.jpg)
+![Placeholder](/onthepassingoftime/assets/images/chefchaouen-wood.jpeg)
 
 <p></p>
 
