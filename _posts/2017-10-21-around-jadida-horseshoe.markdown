@@ -10,7 +10,7 @@ tags:
 ---
 <p >framing horseshoe</p>
 
-![Placeholder](/onthepassingoftime/assets/images/jadida-horseshoe.jpg)
+![Placeholder](/onthepassingoftime/assets/images/jadida-horseshoe.jpeg)
 
 <p></p>
 

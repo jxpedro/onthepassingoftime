@@ -10,7 +10,7 @@ tags:
 ---
 <p >rolling bike</p>
 
-![Placeholder](/onthepassingoftime/assets/images/marrakesh-bike.jpg)
+![Placeholder](/onthepassingoftime/assets/images/marrakesh-bike.jpeg)
 
 <p></p>
 

@@ -10,7 +10,7 @@ tags:
 ---
 <p >waiting boats</p>
 
-![Placeholder](/onthepassingoftime/assets/images/jadida-boats.jpg)
+![Placeholder](/onthepassingoftime/assets/images/jadida-boats.jpeg)
 
 <p></p>
 

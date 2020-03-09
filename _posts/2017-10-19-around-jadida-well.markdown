@@ -10,7 +10,7 @@ tags:
 ---
 <p >storing well</p>
 
-![Placeholder](/onthepassingoftime/assets/images/jadida-well.jpg)
+![Placeholder](/onthepassingoftime/assets/images/jadida-well.jpeg)
 
 <p></p>
 

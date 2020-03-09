@@ -10,7 +10,7 @@ tags:
 ---
 <p >riding piggyback</p>
 
-![Placeholder](/onthepassingoftime/assets/images/marrakesh-back.jpg)
+![Placeholder](/onthepassingoftime/assets/images/marrakesh-back.jpeg)
 
 <p></p>
 

@@ -10,7 +10,7 @@ tags:
 ---
 <p >sharing table</p>
 
-![Placeholder](/onthepassingoftime/assets/images/marrakesh-table.jpg)
+![Placeholder](/onthepassingoftime/assets/images/marrakesh-table.jpeg)
 
 <p></p>
 
