@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "acorn": ">=6.4.1",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.3",
     "aos": "^2.3.4",
     "jquery": "^3.4.1",
     "salvattore": "^1.0.9"
