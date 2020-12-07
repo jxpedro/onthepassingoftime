@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - austin
 ---
-<p >keeping</p>
+<p >wierd</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/austin-keeping.png)
 
