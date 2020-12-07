@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - newyork
 ---
-<p >at</p>
+<p >crossing at</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/newyork-at.png)
 

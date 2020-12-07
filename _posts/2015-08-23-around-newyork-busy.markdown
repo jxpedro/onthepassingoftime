@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - newyork
 ---
-<p >busy</p>
+<p >settling business</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/newyork-busy.png)
 
