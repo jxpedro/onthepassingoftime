@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - austin
 ---
-<p >wierd</p>
+<p >shouting weird</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/austin-weird.png)
 
