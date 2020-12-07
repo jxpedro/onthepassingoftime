@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - newyork
 ---
-<p >night</p>
+<p >waiting on the night to fall</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/newyork-night.png)
 

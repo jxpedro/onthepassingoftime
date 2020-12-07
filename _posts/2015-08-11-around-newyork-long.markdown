@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - newyork
 ---
-<p >long</p>
+<p >longing path</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/newyork-long.png)
 

@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - newyork
 ---
-<p >all</p>
+<p >alluring heights</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/newyork-all.png)
 
