@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - austin
 ---
-<p >rocking in the dark</p>
+<p >weird</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/austin-weird.png)
 
