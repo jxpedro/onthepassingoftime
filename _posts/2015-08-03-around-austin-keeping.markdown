@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - austin
 ---
-<p >keeping loud</p>
+<p >keeping loud in mind</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/austin-weird.png)
 
