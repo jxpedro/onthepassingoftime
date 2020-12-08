@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - morocco
 ---
-<p >eating snails</p>
+<p >following snails</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/asilah-snails.jpeg)
 
