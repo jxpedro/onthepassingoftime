@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - morocco
 ---
-<p >watching olives</p>
+<p >harvesting olives</p>
 
 ![Placeholder](/onthepassingoftime/assets/images/fez-olives.jpeg)
 
